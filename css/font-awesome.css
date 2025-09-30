@@ -762,12 +762,8 @@
 .fa-pinterest-square:before {
   content: "\f0d3";
 }
-.fa-google-plus-square:before {
-  content: "\f0d4";
-}
-.fa-google-plus:before {
-  content: "\f0d5";
-}
+
+
 .fa-money:before {
   content: "\f0d6";
 }
@@ -2171,10 +2167,7 @@
 .fa-themeisle:before {
   content: "\f2b2";
 }
-.fa-google-plus-circle:before,
-.fa-google-plus-official:before {
-  content: "\f2b3";
-}
+
 .fa-fa:before,
 .fa-font-awesome:before {
   content: "\f2b4";
